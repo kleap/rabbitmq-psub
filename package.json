@@ -1,0 +1,14 @@
+{
+  "name": "rabbitmq-psub",
+  "version": "0.0.11",
+  "description": "Package to simple usage rabbitMQ pub/sub. Includes lazy initializing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kleap",
+  "license": "ISC",
+  "dependencies": {
+    "rabbit.js": "^0.4.4"
+  }
+}

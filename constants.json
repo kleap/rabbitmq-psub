@@ -1,0 +1,9 @@
+{
+  "SocketTypes": {
+    "PUB": "PUB",
+    "SUB": "SUB"
+  },
+  "Routing": {
+    "TOPIC": "topic"
+  }
+}
